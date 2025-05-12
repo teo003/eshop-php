@@ -27,8 +27,8 @@ A simple and functional E-commerce web application built using **PHP** and **Boo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/php-eshop-store.git
-   cd php-eshop-store
+   git clone https://github.com/teo003/eshop-php.git
+   cd eshop-php
 
 ---
 
