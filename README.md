@@ -33,9 +33,9 @@ A simple and functional E-commerce web application built using **PHP** and **Boo
 ---
 
 ## 🔒 Security Notes
--Always sanitize user inputs to avoid SQL injection.
--Use HTTPS in production.
--Add CSRF protection and improve password hashing (e.g., password_hash).
+- Always sanitize user inputs to avoid SQL injection.
+- Use HTTPS in production.
+- Add CSRF protection and improve password hashing (e.g., password_hash).
 
 ---
 
